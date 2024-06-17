@@ -1,4 +1,39 @@
-<h1>Jitendra Rathore>/h1>
-<p>Hello!>/p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India</title>
+</head>
+<body>
+    <pre>                                              
+                                                                 <h1>India</h1>           
+    </pre>
+    <p><i>India</i> is a country which situched at south asia it has 29 states.India have most largest states like Uttarpradesh, Madhya Pradesh and <b>Rajasthan</b>. India is largrest democracy in this world.</p>
+    <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F08%2FAwesome-Indian-Flag-Background.jpg&f=1&nofb=1&ipt=24fc8ecdb4e043c253c23e2d5e3971ec4ec7a3362e7fe55b1e64a5504e5237c9&ipo=images" height = "200" alt="India Map" />
+    <br />
+    <a href = "https://en.wikipedia.org/wiki/India">"Wikipedia" </a>
+
+    <br/>
+    <hr>
+    <big>This shows big text</big>
+
+    <br/>
+    <hr>
+    <small>This shows small text</small>
+    <br/>
+    <hr>
+    <p>H<sub>2</sub>o</p>
+    <p>a<sup>2</sup>+b<sup>2</sup></p>
+    <pre>
+                                                            Lorem ipsum dolor sit amet 
+                                                            consectetur adipisicing elit. 
+                                                            Eveniet fugiat totam quia laboriosam 
+                                                            quo dicta eaque adipisci, debitis dolorum 
+                                                            provident eum labore maxime rerum asperiores 
+                                                            perspiciatis ut ratione quam velit? 
+    </pre>
+</body>
+</html>
 
 
